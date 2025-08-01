@@ -1,4 +1,4 @@
-[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/raskolnikoff/loto6-deeplearning/blob/main/loto6-deepLearning.ipynb)
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/raskolnikoff/loto6-deeplearning/blob/main/loto6_deeplearning.ipynb)
 
 # Loto6 Deep Learning Prediction
 
