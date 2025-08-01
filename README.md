@@ -1,4 +1,4 @@
-[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yourusername/yourrepository/blob/main/Loto6_DeepLearning.ipynb)
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/raskolnikoff/loto6-deeplearning/blob/main/loto6-deepLearning.ipynb)
 
 # Loto6 Deep Learning Prediction
 
@@ -16,7 +16,7 @@ A deep learning experiment for predicting Japan's Loto6 lottery numbers using Bi
 ---
 
 ## 🚀 How to Run (Google Colab Recommended)
-1. Click the **Open in Colab** badge above to open the notebook `Loto6_DeepLearning.ipynb` located at the repository root.
+1. Click the **Open in Colab** badge above to open the notebook `Loto6_DeepLearning.ipynb` located at the root of the `loto6-deeplearning` repository.
 2. Run `Runtime → Run all` from the top of the notebook.
 3. Check the learning curves and the predicted numbers.
 
